@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Google Universal Analytics\n"
+"POT-Creation-Date: 2019-05-15 14:19+0100\n"
+"PO-Revision-Date: 2019-05-15 14:21+0100\n"
+"Last-Translator: StefanoAI <stefanoai@stefanoai.com>\n"
+"Language-Team: StefanoAI <stefanoai@stefanoai.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: c:\\users\\StefanoAI\\Qsync\\#Works\\Projects"
+"\\Wordpress-Plugins\\advanced-google-universal-analytics\\trunk\n"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:142
+msgid "AIGUA Settings"
+msgstr "Settings"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:143
+msgid "AIGUA No tracking Roles"
+msgstr "No tracking roles"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:144
+msgid "AIGUA No tracking users"
+msgstr "No tracking users"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:161
+msgid "AIGUA TRACKING ID"
+msgstr "Tracking ID (UA-XXXXXXXX-X)"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:165
+msgid "Anonymize IP"
+msgstr "Anonymize IP"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:169
+msgid "AIGUA Type"
+msgstr "Type of tracking"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:179
+msgid "AIGUA Additional Tracking ID"
+msgstr "Additional Tracking ID (UA-XXXXXXXX-X)"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:183
+msgid "Anonymize IP for additional tracking"
+msgstr "Anonymize IP for additional tracking"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:187
+msgid "AIGUA Domain"
+msgstr "Domain"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:191
+msgid "AIGUA Loading on"
+msgstr "Loading on"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:198
+msgid "AIGUA Loading on WP panel"
+msgstr "Loading on WP Panel"
+
+#: c:\users\StefanoAI\Qsync\#Works\Projects\Wordpress-Plugins\advanced-google-universal-analytics\trunk/AdvancedGoogleUniversalAnalytics.php:223
+msgid "AIGUA Find user"
+msgstr "Find user"
